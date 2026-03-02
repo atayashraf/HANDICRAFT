@@ -28,8 +28,8 @@ Nothing fancy on the backend — it's all client-side right now. Product data li
 You'll need Node.js (v18+) and npm.
 
 ```bash
-git clone https://github.com/ataborz/Indian-Handicrafts-App.git
-cd Indian-Handicrafts-App
+git clone https://github.com/atayashraf/HANDICRAFT.git
+cd HANDICRAFT
 npm install
 npx expo start --web
 ```
@@ -61,7 +61,7 @@ Everything lives in one main file honestly:
 
 **Atay Ashraf Khan**
 
-GitHub — [@ataborz](https://github.com/ataborz)
+GitHub — [@atayashraf](https://github.com/atayashraf)
 Email — khanatayashraf@gmail.com
 
 ## License
